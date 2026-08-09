@@ -29,7 +29,7 @@ I'm a Full Stack Developer with experience building and maintaining web applicat
 ---
 
 ### 📌 Featured Projects
-- ✈️ **Flight Booking Microservices:** Scalable microservices architecture for handling flight searches, booking workflows, and seat reservations with QueryDSL and Spring Boot.
+- ✈️ **Flight Booking Microservices:** Microservices-based flight booking platform built with Spring Boot, featuring Flight, Booking, and Passenger services, OpenFeign for service communication, and QueryDSL for dynamic search.
 - 🚆 **Train Ticket Reservation System:** End-to-end ticketing platform for searching and booking train journeys.
 - 🚗 **Car Rental System:** Management system for vehicle availability and rental workflows.
 - 🏨 **Hotel Booking Application:** Room search, reservation processing, and booking status management.
